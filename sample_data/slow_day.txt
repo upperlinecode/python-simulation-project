@@ -1,0 +1,16 @@
+customer_id, number_of_items, cash_or_credit
+1, 12, CASH
+2, 22, CREDIT
+3, 3, CREDIT
+4, 35, CREDIT
+5, 2, CASH
+6, 18, CASH
+7, 10, CREDIT
+8, 5, CASH
+9, 30, CREDIT
+10, 8, CASH
+11, 14, CREDIT
+12, 25, CREDIT
+13, 3, CASH
+14, 12, CREDIT
+15, 22, CASH
